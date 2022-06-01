@@ -20,8 +20,7 @@ I have created a food-related helpful website named Foodie Blog using HTML, CSS,
 
 Project Description: 
 
-The core idea of the Project is to build a sample prototype foodie blog Website with a static web app with the help of HTML, CSS, and JAVASCRIPT. The business-to-consumer aspect of foods is the most visible business use of the World Wide Web. The primary goal of a sample prototype of a Foodie Blog site is to sell goods online by solving the problems of customers’ speedily contact. This project deals with developing an information website for getting information about foods. It provides the user with a catalog of different foods available for getting details about it on the site. To facilitate online information about food unique true information is provided to the user. We are using Azure Technologies with GitHub to complete this project.
-
+The core idea of the Project is to build a sample prototype foodie blog Website with a static web app with the help of HTML, CSS, and JAVASCRIPT. The business-to-consumer aspect of foods is the most visible business use of the World Wide Web. The primary goal of a sample prototype of a Foodie Blog site is to sell goods online by solving the problems of customers speedily by visiting the site. This project deals with developing an information website for getting information about foods. It provides the user with a catalog of different foods available for getting details about it on the site. To facilitate online information about food unique true information is provided to the user. We are using Azure Technologies with GitHub to complete this project.
 
 Primary Azure Technology:  Static Web Apps
 
